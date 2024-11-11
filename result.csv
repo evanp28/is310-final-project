@@ -1,4 +1,4 @@
-id,name,box_art_url,igdb_id, genre, age, platforms, monetization_method, developer, indie_or_mainstream
+id,name,box_art_url,igdb_id,genre,age,platforms,monetization_method,developer,indie_or_mainstream
 509658,Just Chatting,https://static-cdn.jtvnw.net/ttv-boxart/509658-{width}x{height}.jpg
 263490,Rust,https://static-cdn.jtvnw.net/ttv-boxart/263490_IGDB-{width}x{height}.jpg,3277
 33214,Fortnite,https://static-cdn.jtvnw.net/ttv-boxart/33214-{width}x{height}.jpg,1905
